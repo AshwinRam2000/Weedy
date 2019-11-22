@@ -1,0 +1,11 @@
+Flask
+gunicorn
+numpy
+opencv-python-headless
+tensorflow
+keras
+simplejson
+argparse
+imutils
+uuid
+base64
