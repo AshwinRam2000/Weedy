@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\weedy\\new\\Weedy\\flutter app\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Ashwin Ram\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\26f0b34a82095d0963bbb14fb24dcc90\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\weedy\\new\\Weedy\\flutter app\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Ashwin Ram\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\26f0b34a82095d0963bbb14fb24dcc90\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\weedy\\new\\Weedy\\flutter app\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Ashwin Ram\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\26f0b34a82095d0963bbb14fb24dcc90\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\weedy\\new\\Weedy\\flutter app\\build\\image_picker\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Ashwin Ram\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\26f0b34a82095d0963bbb14fb24dcc90\\res\\drawable\\notification_bg.xml"
+    }
+]

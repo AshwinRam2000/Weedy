@@ -1,0 +1,4 @@
+#Sat Nov 23 21:21:23 IST 2019
+base.0=D\:\\weedy\\new\\Weedy\\flutter app\\build\\app\\intermediates\\transforms\\r8\\release\\1
+path.0=classes.dex
+renamed.0=classes.dex

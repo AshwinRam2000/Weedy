@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\weedy\\new\\Weedy\\flutter app\\build\\image_picker\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Ashwin Ram\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\26f0b34a82095d0963bbb14fb24dcc90\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\weedy\\new\\Weedy\\flutter app\\build\\image_picker\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Ashwin Ram\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\26f0b34a82095d0963bbb14fb24dcc90\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\weedy\\new\\Weedy\\flutter app\\build\\image_picker\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Ashwin Ram\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\26f0b34a82095d0963bbb14fb24dcc90\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\weedy\\new\\Weedy\\flutter app\\build\\image_picker\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Ashwin Ram\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\26f0b34a82095d0963bbb14fb24dcc90\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

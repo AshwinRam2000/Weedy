@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\weedy\\new\\Weedy\\flutter app\\build\\image_cropper\\intermediates\\res\\merged\\release\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ashwin Ram\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\9ca25cb1965ed61bb6227cf41d197345\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\weedy\\new\\Weedy\\flutter app\\build\\image_cropper\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ashwin Ram\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0-rc01.aar\\9ca25cb1965ed61bb6227cf41d197345\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
