@@ -26,8 +26,7 @@ class Plant extends StatelessWidget {
   // double percentage;
 
   Plant(
-      {
-        @required this.file,
+      {@required this.file,
       this.isWeed = false,
       @required this.date,
       @required this.crop,
@@ -72,9 +71,9 @@ class Plant extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: <Widget>[
                   Text(
-                    isWeed == null ? "Weed" : "Crop",
+                    isWeed == true ? "" : "crop",
                     style: TextStyle(
-                      color: isWeed == null ? Colors.red : Colors.black,
+                      color: isWeed == true ? Colors.red : Colors.black,
                       fontSize: 24,
                     ),
                   ),
@@ -90,6 +89,7 @@ class Plant extends StatelessWidget {
 }
 
 class _HomeState extends State<Home> {
+  bool isweed = true;
   String loc, plant;
   _asyFileUpload(String text) async {
     var stream = new http.ByteStream(DelegatingStream.typed(file.openRead()));
@@ -107,12 +107,14 @@ class _HomeState extends State<Home> {
       Map<String, dynamic> map = jsonDecode(value);
       String result = map["result"];
       print(result);
-      Plant n = new Plant(file: file,isWeed: false,date: "",crop: result);
+      if (result == "LadysFinger" && result == "Brinjal") {
+        isweed = false;
+      }
+      Plant n = new Plant(file: file, isWeed: isweed, date: "", crop: result);
       setState(() {
         l.add(n);
       });
     });
-    
   }
 
   bool addFlag = false;
@@ -233,7 +235,7 @@ class _HomeState extends State<Home> {
               child: GestureDetector(
                 onTap: () {
                   setState(() {
-                    plant = "LadysFinger";
+                    plant = "Bringal";
                   });
                   _choose();
                 },

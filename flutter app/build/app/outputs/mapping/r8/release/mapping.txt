@@ -7819,20 +7819,20 @@ vn.hunghd.flutter.plugins.imagecropper.ImageCropperPlugin -> e.a.a.a.a.c:
     vn.hunghd.flutter.plugins.imagecropper.ImageCropperDelegate delegate -> b
     void registerWith(io.flutter.plugin.common.PluginRegistry$Registrar) -> a
     void onMethodCall(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result) -> a
-androidx.core.util.Pools -> b.e.h.b:
-android.support.v4.media.session.MediaControllerCompat -> android.support.v4.media.session.MediaControllerCompat:
-androidx.recyclerview.R -> b.i.a:
 androidx.appcompat.app.AlertController -> androidx.appcompat.app.AlertController:
-com.google.android.material.R -> c.a.a.a.a:
-android.support.v4.media.MediaBrowserCompat -> android.support.v4.media.MediaBrowserCompat:
+android.support.v4.media.session.MediaControllerCompat -> android.support.v4.media.session.MediaControllerCompat:
 com.google.android.material.snackbar.BaseTransientBottomBar -> com.google.android.material.snackbar.BaseTransientBottomBar:
 androidx.appcompat.app.ActionBar -> androidx.appcompat.app.a:
-androidx.appcompat.R -> b.a.a:
-com.google.android.material.snackbar.Snackbar -> com.google.android.material.snackbar.Snackbar:
-androidx.core.R -> b.e.a:
-androidx.recyclerview.widget.ItemTouchHelper -> androidx.recyclerview.widget.q:
-androidx.appcompat.widget.ActivityChooserView -> androidx.appcompat.widget.ActivityChooserView:
-androidx.coordinatorlayout.R -> b.d.a:
-androidx.lifecycle.LiveData -> androidx.lifecycle.LiveData:
-io.flutter.embedding.engine.FlutterEngine -> io.flutter.embedding.engine.a:
 com.yalantis.ucrop.R -> c.b.a.a:
+androidx.appcompat.R -> b.a.a:
+androidx.coordinatorlayout.R -> b.d.a:
+io.flutter.embedding.engine.FlutterEngine -> io.flutter.embedding.engine.a:
+androidx.core.util.Pools -> b.e.h.b:
+androidx.core.R -> b.e.a:
+android.support.v4.media.MediaBrowserCompat -> android.support.v4.media.MediaBrowserCompat:
+com.google.android.material.R -> c.a.a.a.a:
+androidx.appcompat.widget.ActivityChooserView -> androidx.appcompat.widget.ActivityChooserView:
+androidx.lifecycle.LiveData -> androidx.lifecycle.LiveData:
+androidx.recyclerview.R -> b.i.a:
+com.google.android.material.snackbar.Snackbar -> com.google.android.material.snackbar.Snackbar:
+androidx.recyclerview.widget.ItemTouchHelper -> androidx.recyclerview.widget.q:
